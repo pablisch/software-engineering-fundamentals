@@ -18,6 +18,7 @@ ENV/
 Thumbs.db
 .vscode/
 .idea/
+.idea/workspace.xml
 
 # ---- Logs & runtime ----
 *.log
